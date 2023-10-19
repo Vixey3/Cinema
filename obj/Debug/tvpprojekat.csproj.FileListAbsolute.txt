@@ -1,0 +1,47 @@
+C:\Users\Nebojsa\source\repos\tvpprojekat\bin\Debug\tvpprojekat.exe.config
+C:\Users\Nebojsa\source\repos\tvpprojekat\bin\Debug\tvpprojekat.exe
+C:\Users\Nebojsa\source\repos\tvpprojekat\bin\Debug\tvpprojekat.pdb
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.csprojAssemblyReference.cache
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.Properties.Resources.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.csproj.GenerateResource.cache
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.exe
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.pdb
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmRezervacija.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmKupac.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmAdmin.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmPocetna.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmIzmenaPodataka.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmUpisPodataka.resources
+C:\Users\Nebojsa\source\repos\tvpprojekat\obj\Debug\tvpprojekat.frmBrisanjePodataka.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.exe.config
+D:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.exe
+D:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.pdb
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmBrisanjePodataka.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmIzmenaPodataka.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmPocetna.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmAdmin.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmRezervacija.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmKupac.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmUpisPodataka.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.Properties.Resources.resources
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.csproj.GenerateResource.cache
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.csproj.CoreCompileInputs.cache
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.exe
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.pdb
+E:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.exe.config
+E:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.exe
+E:\VERZIJA 2 KONACNA\tvpprojekat\bin\Debug\tvpprojekat.pdb
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.csprojAssemblyReference.cache
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmBrisanjePodataka.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmIzmenaPodataka.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmPocetna.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmAdmin.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmRezervacija.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmKupac.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.frmUpisPodataka.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.Properties.Resources.resources
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.csproj.GenerateResource.cache
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.exe
+E:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.pdb
+D:\VERZIJA 2 KONACNA\tvpprojekat\obj\Debug\tvpprojekat.csproj.AssemblyReference.cache
